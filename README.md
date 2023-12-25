@@ -1,4 +1,4 @@
-# CodSoft - Artificial Intelligence Internship Projects
+# CodSoft - Machine Learning Internship Projects
 
 This repository contains the projects completed during the CodSoft Artificial Intelligence Internship. Below are brief descriptions of the projects and files:
 
